@@ -83,5 +83,6 @@ import { FlexLayoutModule } from '@angular/flex-layout';
     MatToolbarModule,
     MatTooltipModule,
     CommonModule,
-    FlexLayoutModule
+    FlexLayoutModule,
+    MatTreeModule
   ],
